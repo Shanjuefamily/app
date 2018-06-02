@@ -1,4 +1,4 @@
-<?php
-$name = "API";
 
-?>
+<?php $name = "API"; ?>
+
+
